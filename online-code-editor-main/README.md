@@ -31,9 +31,7 @@ This is a real-time code editor application inspired by CodePen. Users can write
 
 ## Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.commaulik-koli/online-code-editor.git
+
 
 2. **Navigate to the project directory:**
    ```bash
